@@ -2,7 +2,7 @@
 
 
 
-💬Faço curso no senai de Desenvolvimento de sistemas.
+💬Faço curso de Desenvolvimento de sistemas no Senai
 
 😄Gosto de Jogar futebol, sair com os amigos e aprender coisas novas.
 
