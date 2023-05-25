@@ -4,9 +4,7 @@
 
 💬Faço curso de Desenvolvimento de sistemas no Senai
 
-😄Gosto de Jogar futebol, sair com os amigos e aprender coisas novas.
-
-🤔Pretendo futuramente atuar como analista de sistemas, e estou estudando para isso.
+🤔Pretendo futuramente atuar como analista de sistemas.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoteus&show_icons=true&theme=highcontrast">
 <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ngoteus&layout=compact&theme=highcontrast>
