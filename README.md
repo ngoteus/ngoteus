@@ -16,8 +16,9 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
+###Ferramentas e habilidades
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,figma,github,js,visualstudio,vscode,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,figma,github,js,visualstudio,vscode)](https://skillicons.dev)
 </div>
 
 
