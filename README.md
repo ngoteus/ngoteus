@@ -2,7 +2,7 @@
 
 
 
-💬Faço curso de Desenvolvimento de sistemas no Senai
+💬Curso atualmente Sistemas de Informação na FMU
 
 🤔Pretendo futuramente atuar como analista de sistemas.
 <div align="center">
